@@ -1,0 +1,15 @@
+# Healthcare Selector
+
+## Background
+
+This is designed by <a href="https://twitter.com/tigerloveslobs1" target="_blank"><b>Tiger Tang</b></a> and aims to make healthcare selection less burdened and provide direct insights of costs/payable under different bill projections.
+
+## Key Definition
+
+Items                   | Descriptions
+------------------------|----------------
+HSA contribution        | Dollar amount for 12 month. Some companies offers either HSA or FSA with matching rules. Leave this empty if that does not fit your case.   
+HSA company match       | Dollar amount for 12 month. Some companies offers either HSA or FSA with matching rules. Leave this empty if that does not fit your case.  
+
+
+
