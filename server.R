@@ -99,7 +99,7 @@ data <- tibble(
                   premium = input$Plan3_pm, 
                   HSA_contribution = input$Plan3_hsa, 
                   company_match = input$Plan3_hsa_c),
-  bill = c(0:50)*100
+  bill = bill
 ) 
 
 colnames(data)[1:3] <- c(input$Plan1_name,input$Plan2_name,input$Plan3_name)
